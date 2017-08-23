@@ -1,2 +1,3 @@
 # PrincipalProblems
-This is a repository which contains practical algorithms to some well-known algorithmic problems.
+This is a repository which contains solutions to some well-known algorithmic problems.
+
